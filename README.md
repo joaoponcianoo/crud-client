@@ -1,7 +1,7 @@
 ## crud-client-abap
 CRUD de cliente em ABAP
 
-Criei esse programa para praticar minha habilidades ABAP, nada muito complexo, nele consigo ultilizar vários conceitos como: ABAPOO, SQL, screenProcess etc...
+Criei esse programa para praticar minhas habilidades ABAP, nada muito complexo, nele consigo ultilizar vários conceitos como: ABAPOO, SQL, screenProcess etc...
 
 Ao iniciarmos a transação é exibido a seguinte tela:
 
